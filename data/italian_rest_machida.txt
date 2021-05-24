@@ -1,0 +1,6 @@
+id;name;addr
+0;minami-naruse;東京都町田市南成瀬2-7-1
+1;kanai;東京都町田市金井ケ丘2-24-16
+2;tadao;東京都町田市木曽西2-17-20
+3;tips-machida;東京都町田市原町田6-7-8
+4;tsurukawa;東京都町田市能ヶ谷1-3-2
